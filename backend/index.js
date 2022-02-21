@@ -24,4 +24,4 @@ app.use(router.allowedMethods());
 // require('./controllers.js')(config, router);
 
 app.listen(config.port);
-console.log(`Cluster service start on ${config.ip()}:${config.port}`);
+console.log(`Backend start on ${config.ip()}:${config.port}`);
