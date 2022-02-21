@@ -16,7 +16,7 @@ module.exports = {
         return ip;
     },
     port: 3000,
-    keys: ['BOl6unUY1ErQIPVRcvzEsrlNpHjKvx9vW1YuIq1eOXkpIPlJAjSk8RBHcRpvKemFSqTSNrekXQvB3AmqnzipZ2GRHs78eutNYsYlVDejpxefwrzC1P6siAVZbRIV5wAa', '4WSBvr3UcAejFYjk8ZXEvNRyJxk3R7IMooMS6EIhyyNpW2PpG1qmPsTkW5MFh9TFhtEzSxPNAViPIhreJOg4yJ3aFiNVrlaayU2NdoPQCrXO6T612OpEetPjyz5C3PSo'],
+    keys: ['BTl6unUY1ErQIPVRcvzEsrlNpHjKvx9vW1YuIq1eOXkpIPlJAjSk8RBHcRpvKemFSqTSNrekXQvB3AmqnzipZ2GRHs78eutNYsYlVDejpxefwrzC1P6siAVZbRIV5wAa', '4WSBvr3UcAejFYjk8ZXEvNRyJxk3R7IMooMS6EIhyyNpW2PpG1qmPsTkW5MFh9TFhtEzSxPNAViPIhreJOg4yJ3aFiNVrlaayU2NdoPQCrXO6T612OpEetPjyz5C3PSo'],
     session: {
         key: "u:sess",
         maxAge: 3600 * 1000 * 1,
