@@ -1,6 +1,6 @@
 module.exports = {
     apps: [{
-        name: "Main",
+        name: "Backend",
         script: __dirname + "/backend/index.js",
         instances: "max",
         exec_mode: "cluster",
