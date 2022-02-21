@@ -20,6 +20,7 @@ app.use(Serve(config.static));
 app.use(router.routes());
 app.use(router.allowedMethods());
 
+
 // require('./models')(config, config.db(Sequelize), Sequelize);
 // require('./controllers.js')(config, router);
 
